@@ -1,0 +1,12 @@
+{
+    "Accept": "application/json, text/plain, */*", 
+    "Cookie": "x-xsrf-token=9aa84802-dda2-4b0c-aef8-7a6d57111286; ECOM_SESS=vpm1xzp82nf06vx280a7ld0vbg; correlation_id=i68aveek1lv0wwqesgb2q0wlhlp04b36zqeryvy329amq2ik22e4kpwro3qbw1pa; rskxRunCookie=0; rCookie=rya1o4epnyoav5i63tpqpelssc68c9; _cs_mk=0.5634182838356909_1708310852426; _gid=GA1.2.947598193.1708310852; _ga=GA1.2.2026300217.1708310852; lastRskxRun=1708311036851; _ga_Y862HCHCQ7=GS1.1.1708310852.1.1.1708311040.0.0.0; datadome=luXGlnl20PPtgHHjaJ5eT5uiYm05dfmmo61rwLMhW7S98bCnq0MRF4VmDAIPnZ9u~X5qcfAhUQFRv8RZPvOHN4VK4UlpsnkXIfMbcxRhanL3ac2dA4REUMCuT9xTqfQz", 
+    "Origin": "https://www.hermes.com", 
+    "Referer": "https://www.hermes.com/", 
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36", 
+    "sec-ch-ua": '"Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"', 
+    "sec-ch-ua-mobile": "?0", 
+    "sec-ch-ua-platform": "'Windows'", 
+    "x-hermes-locale": "fi_en", 
+    "x-xsrf-token": "9aa84802-dda2-4b0c-aef8-7a6d57111286"
+}

@@ -1,0 +1,78 @@
+{
+    "requestId": "interception-job-2.0",
+    "request": {
+        "url": "https://accounts.google.com/",
+        "method": "GET",
+        "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "Cookie": "__Host-GAPS=1:Z91C0f-ntTfJdqVXFm5vn_bfibXrSw:jS1ZuJTBJKGjZVat",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+            "X-Chrome-ID-Consistency-Request": "version=1,client_id=77185425430.apps.googleusercontent.com,device_id=571d3cf8-3470-4177-b5b1-8d5441c9307a,signin_mode=all_accounts,signout_mode=show_confirmation"
+        },
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin"
+    },
+    "frameId": "09BFEEBA7D3D974FE0EBD33C991D31EF",
+    "resourceType": "Document",
+    "responseStatusCode": 302,
+    "responseStatusText": "",
+    "responseHeaders": [
+        {
+            "name": "content-type",
+            "value": "text/html; charset=UTF-8"
+        },
+        {
+            "name": "strict-transport-security",
+            "value": "max-age=31536000; includeSubDomains"
+        },
+        {
+            "name": "x-frame-options",
+            "value": "DENY"
+        },
+        {
+            "name": "content-security-policy",
+            "value": "script-src 'report-sample' 'nonce--VZ38tC8CaFnYjpxR_Qwlg' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport"
+        },
+        {
+            "name": "location",
+            "value": "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F"
+        },
+        {
+            "name": "content-encoding",
+            "value": "gzip"
+        },
+        {
+            "name": "date",
+            "value": "Mon, 29 Jul 2024 13:37:40 GMT"
+        },
+        {
+            "name": "expires",
+            "value": "Mon, 29 Jul 2024 13:37:40 GMT"
+        },
+        {
+            "name": "cache-control",
+            "value": "private, max-age=0"
+        },
+        {
+            "name": "x-content-type-options",
+            "value": "nosniff"
+        },
+        {
+            "name": "x-xss-protection",
+            "value": "1; mode=block"
+        },
+        {
+            "name": "content-length",
+            "value": "257"
+        },
+        {
+            "name": "server",
+            "value": "GSE"
+        },
+        {
+            "name": "alt-svc",
+            "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+        }
+    ]
+}

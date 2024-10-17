@@ -1,0 +1,172 @@
+{
+    "sku": "H3H4601DATL36",
+    "title": "\"Astrologie Remix\" long-sleeve t-shirt",
+    "productCode": "D514",
+    "assets": [
+        {
+            "url": "//assets.hermes.com/is/image/hermesproduct/3H4601DATL_worn_1",
+            "type": "image",
+            "tag": "worn",
+            "position": 1,
+            "source": "scene7"
+        },
+        {
+            "url": "//assets.hermes.com/is/content/hermesproduct/3H4601DATL_video_2-AVS.m3u8",
+            "poster_url": "//assets.hermes.com/is/image/hermesproduct/3H4601DATL_video_2-AVS",
+            "type": "video",
+            "position": 1,
+            "source": "scene7"
+        },
+        {
+            "url": "//assets.hermes.com/is/image/hermesproduct/3H4601DATL_worn_3",
+            "type": "image",
+            "tag": "worn",
+            "position": 2,
+            "source": "scene7"
+        },
+        {
+            "url": "//assets.hermes.com/is/image/hermesproduct/3H4601DATL_worn_4",
+            "type": "image",
+            "tag": "worn",
+            "position": 3,
+            "source": "scene7"
+        }
+    ],
+    "size": "36",
+    "departmentCode": "D",
+    "familyCode": "D06",
+    "divisionCode": "02",
+    "price": 1400,
+    "priceType": "fixed",
+    "url": "/ca/en/product/astrologie-remix-long-sleeve-t-shirt-H3H4601DATL36/",
+    "path": "/ca/en/product/astrologie-remix-long-sleeve-t-shirt-H3H4601DATL36/",
+    "alt_paths": {
+        "en-au": "/au/en/product/astrologie-remix-long-sleeve-t-shirt-H3H4601DATL36/",
+        "en-ca": "/ca/en/product/astrologie-remix-long-sleeve-t-shirt-H3H4601DATL36/",
+        "fr-ca": "/ca/fr/product/t-shirt-manches-longues-imprime-astrologie-remix-H3H4601DATL36/",
+        "fr-fr": "/fr/fr/product/t-shirt-manches-longues-imprime-astrologie-remix-H3H4601DATL36/",
+        "ko-kr": "/kr/ko/product/astrologie-remix-롱-슬리브-티셔츠-H3H4601DATL36/"
+    },
+    "slug": "astrologie-remix-long-sleeve-t-shirt",
+    "templateType": "simple",
+    "simpleAttributes": {
+        "description": "Long-sleeve t-shirt in \"Astrologie Remix\" printed cotton interlock (100% cotton)<br /><br />- Jersey collar<br /><br />This piece runs true-to-size.<br /><br />Made in France",
+        "colorHermes": "blanc nacre",
+        "colorHermesCode": "TL_BLANC NACRE",
+        "colorHermesLabel": "Color",
+        "sizeLabel": "Size",
+        "refColoris": "H3H4601DA_TL"
+    },
+    "variants": {
+        "colors": [
+            {
+                "sku": "H3H4601DATL36",
+                "slug": "astrologie-remix-long-sleeve-t-shirt",
+                "stock": {
+                    "ecom": true,
+                    "retail": false,
+                    "shared": false,
+                    "displayOnly": false
+                },
+                "url": "/ca/en/product/astrologie-remix-long-sleeve-t-shirt-H3H4601DATL36/",
+                "image": "//assets.hermes.com/is/image/hermesproduct/3H4601DATL_thumbnail_20?defaultimage=3H4601DATL_set",
+                "color": "blanc nacre",
+                "refColoris": "H3H4601DA_TL"
+            }
+        ],
+        "sizes": [
+            {
+                "sku": "H3H4601DATL36",
+                "slug": "astrologie-remix-long-sleeve-t-shirt",
+                "stock": {
+                    "ecom": true,
+                    "retail": false,
+                    "shared": false,
+                    "displayOnly": false
+                },
+                "size": "36"
+            },
+            {
+                "sku": "H3H4601DATL40",
+                "slug": "astrologie-remix-long-sleeve-t-shirt",
+                "stock": {
+                    "ecom": true,
+                    "retail": false,
+                    "shared": false,
+                    "displayOnly": false
+                },
+                "size": "40"
+            },
+            {
+                "sku": "H3H4601DATL42",
+                "slug": "astrologie-remix-long-sleeve-t-shirt",
+                "stock": {
+                    "ecom": true,
+                    "retail": false,
+                    "shared": false,
+                    "displayOnly": false
+                },
+                "size": "42"
+            }
+        ]
+    },
+    "content": {
+        "toggles": {
+            "product_detail": "<p>Model is 1m78 / 5&#39;8&quot; and wearing a size 38.<br><br>Details of the look: the model is wearing<br>- Pajama pants (H3H0436DG02)</p>\n",
+            "product_detail_title": "Product details",
+            "gift": "<div class=\"field field-name-field-gifting-toggle-description field-type-text-long field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\"><p class=\"editorial-block-paragraph\">Your purchases are delivered in an orange box tied with a Bolduc ribbon, with the exception of fragrances, makeup and beauty products, books, certain equestrian and bulky items.<br />\nDuring checkout, you can include a card with a personalized message and a priceless invoice. <br />\nA customer can exchange a gift. For more details, please contact <a href=\"https://www.hermes.com/ca/en/#tray-help\" target=\"_blank\">Customer Service.<span class=\"sr-only\">New window</span></a></p>\n</div></div></div>",
+            "gift_title": "Gifting",
+            "care_instruction": "<div class=\"field field-name-field-care-instructions-text field-type-text-long field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\"><div>The materials used for this garment have been carefully selected. In order to preserve its quality over time, we recommend that you read the care instructions on the label sewn inside this garment and entrust its maintenance to a specialist or to one of our Hermes stores.<br />\nFor any questions, please contact our Customer Service via telephone or via email by clicking on “Contact Us” or simply visit one of our stores.</div>\n</div></div></div>",
+            "care_instruction_title": "Care",
+            "delivery_and_returns": "<div class=\"field field-name-field-delivery-return-text field-type-text-long field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\"><div>Shipping<br />\n• Complimentary ground shipping within 2 to 7 business days<br />\n• In-store collection available within 1 to 7 business days<br />\n• Next-day and Express delivery options also available<br />\n• Purchases are delivered in an orange box tied with a Bolduc ribbon, with the exception of certain items<br />\n• See the delivery <a href=\"/faq/online-shopping/#delivery\" target=\"_blank\">FAQs<span class=\"sr-only\">New window</span></a> for details on shipping methods, costs and delivery times</div>\n\n<div>Payment methods<br />\n• By card: Visa®, MasterCard®, American Express®, Diners Club®, Discover® and China Union Pay®<br />\n• By PayPal® and Apple Pay®</div>\n\n<div>Returns and exchanges <br />\n• Easy and complimentary, within 30 days<br />\n• See conditions and procedure in our return <a href=\"/faq/online-shopping/#returns-and-exchanges\" target=\"_blank\">FAQs<span class=\"sr-only\">New window</span></a></div>\n</div></div></div>",
+            "delivery_and_returns_title": "Delivery & returns",
+            "more_information_title": "More information",
+            "application_advice_title": "How to use"
+        },
+        "size_guide": {
+            "title": "Size guide",
+            "subtitle": "<div class=\"field field-name-field-size-guide-subtitle field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">Measure yourself</div></div></div>",
+            "image_url": "//assets.hermes.com/is/image/hermesedito/Hermes_Women_RTW_01_V3",
+            "text": "<div class=\"field field-name-field-size-guide-text field-type-text-long field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\"><div>Find the correct fit using the <a href=\"https://assets.hermes.com/is/content/hermesedito/Legal/Size%5Fguide%5FD%20EN.pdf\" target=\"_blank\">following chart<span class=\"sr-only\">New window</span></a>.</div>\n\n<div> </div>\n\n<div>Then check your size using the following chart:</div>\n</div></div></div>",
+            "table_title": "<div class=\"field field-name-field-size-guide-widget-label field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">Find your size</div></div></div>",
+            "selected_unit": "int",
+            "imp_unit": "inches",
+            "intl_unit": "cm",
+            "table_imp": "<div class=\"field field-name-field-size-guide-table-imperial field-type-tablefield field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\"><div id=\"tablefield-wrapper-node-164891-field-size-guide-table-imperial-0--15\" class=\"tablefield-wrapper\"><table id=\"tablefield-node-164891-field_size_guide_table_imperial-0\" class=\"tablefield  tablefield-columns-9 table sticky-enabled\">\n<caption class=\"sr-only\">Find your size</caption>\n <thead><tr><th class=\"row_0 col_0\" scope=\"col\">Hermès size</th><th class=\"row_0 col_1\" scope=\"col\">China</th><th class=\"row_0 col_2\" scope=\"col\">Japan</th><th class=\"row_0 col_3\" scope=\"col\">USA</th><th class=\"row_0 col_4\" scope=\"col\">UK / Australia</th><th class=\"row_0 col_5\" scope=\"col\">Germany / Denmark</th><th class=\"row_0 col_6\" scope=\"col\">Italy</th><th class=\"row_0 col_7\" scope=\"col\">Russia</th><th class=\"row_0 col_8\" scope=\"col\">Brazil</th> </tr></thead>\n<tbody>\n <tr class=\"odd\"><td class=\"row_1 col_0\">32</td><td class=\"row_1 col_1\">155 /78A</td><td class=\"row_1 col_2\">3</td><td class=\"row_1 col_3\">0</td><td class=\"row_1 col_4\"></td><td class=\"row_1 col_5\"></td><td class=\"row_1 col_6\"></td><td class=\"row_1 col_7\"></td><td class=\"row_1 col_8\">30</td> </tr>\n <tr class=\"even\"><td class=\"row_2 col_0\">34</td><td class=\"row_2 col_1\">155/80A</td><td class=\"row_2 col_2\">5</td><td class=\"row_2 col_3\">2</td><td class=\"row_2 col_4\">6</td><td class=\"row_2 col_5\">32</td><td class=\"row_2 col_6\">38</td><td class=\"row_2 col_7\">40</td><td class=\"row_2 col_8\">32/PPP</td> </tr>\n <tr class=\"odd\"><td class=\"row_3 col_0\">36</td><td class=\"row_3 col_1\">160/84A</td><td class=\"row_3 col_2\">7</td><td class=\"row_3 col_3\">4</td><td class=\"row_3 col_4\">8</td><td class=\"row_3 col_5\">34</td><td class=\"row_3 col_6\">40</td><td class=\"row_3 col_7\">42</td><td class=\"row_3 col_8\">34/PP</td> </tr>\n <tr class=\"even\"><td class=\"row_4 col_0\">38</td><td class=\"row_4 col_1\">160/84A</td><td class=\"row_4 col_2\">9</td><td class=\"row_4 col_3\">6</td><td class=\"row_4 col_4\">10</td><td class=\"row_4 col_5\">36</td><td class=\"row_4 col_6\">42</td><td class=\"row_4 col_7\">44</td><td class=\"row_4 col_8\">36/P</td> </tr>\n <tr class=\"odd\"><td class=\"row_5 col_0\">40</td><td class=\"row_5 col_1\">165/88A</td><td class=\"row_5 col_2\">11</td><td class=\"row_5 col_3\">8</td><td class=\"row_5 col_4\">12</td><td class=\"row_5 col_5\">38</td><td class=\"row_5 col_6\">44</td><td class=\"row_5 col_7\">46</td><td class=\"row_5 col_8\">38/M</td> </tr>\n <tr class=\"even\"><td class=\"row_6 col_0\">42</td><td class=\"row_6 col_1\">170/92A</td><td class=\"row_6 col_2\">13</td><td class=\"row_6 col_3\">10</td><td class=\"row_6 col_4\">14</td><td class=\"row_6 col_5\">40</td><td class=\"row_6 col_6\">46</td><td class=\"row_6 col_7\">48</td><td class=\"row_6 col_8\">40/G</td> </tr>\n <tr class=\"odd\"><td class=\"row_7 col_0\">44</td><td class=\"row_7 col_1\">175/96A</td><td class=\"row_7 col_2\">15</td><td class=\"row_7 col_3\">12</td><td class=\"row_7 col_4\">16</td><td class=\"row_7 col_5\">42</td><td class=\"row_7 col_6\">48</td><td class=\"row_7 col_7\">50</td><td class=\"row_7 col_8\">42/GG</td> </tr>\n <tr class=\"even\"><td class=\"row_8 col_0\">46</td><td class=\"row_8 col_1\">180/100A</td><td class=\"row_8 col_2\">17</td><td class=\"row_8 col_3\">14</td><td class=\"row_8 col_4\">18</td><td class=\"row_8 col_5\">44</td><td class=\"row_8 col_6\">50</td><td class=\"row_8 col_7\">52</td><td class=\"row_8 col_8\">44/XG</td> </tr>\n</tbody>\n</table>\n</div></div></div></div>",
+            "table_intl": "<div class=\"field field-name-field-size-guide-table-intl field-type-tablefield field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\"><div id=\"tablefield-wrapper-node-164891-field-size-guide-table-intl-0--15\" class=\"tablefield-wrapper\"><table id=\"tablefield-node-164891-field_size_guide_table_intl-0\" class=\"tablefield  tablefield-columns-9 table sticky-enabled\">\n<caption class=\"sr-only\">Find your size</caption>\n <thead><tr><th class=\"row_0 col_0\" scope=\"col\">Hermès size</th><th class=\"row_0 col_1\" scope=\"col\">China</th><th class=\"row_0 col_2\" scope=\"col\">Japan</th><th class=\"row_0 col_3\" scope=\"col\">USA</th><th class=\"row_0 col_4\" scope=\"col\">UK / Australia</th><th class=\"row_0 col_5\" scope=\"col\">Germany / Denmark</th><th class=\"row_0 col_6\" scope=\"col\">Italy</th><th class=\"row_0 col_7\" scope=\"col\">Russia</th><th class=\"row_0 col_8\" scope=\"col\">Brazil</th> </tr></thead>\n<tbody>\n <tr class=\"odd\"><td class=\"row_1 col_0\">32</td><td class=\"row_1 col_1\">155/78A</td><td class=\"row_1 col_2\">3</td><td class=\"row_1 col_3\">0</td><td class=\"row_1 col_4\"></td><td class=\"row_1 col_5\"></td><td class=\"row_1 col_6\"></td><td class=\"row_1 col_7\"></td><td class=\"row_1 col_8\">30</td> </tr>\n <tr class=\"even\"><td class=\"row_2 col_0\">34</td><td class=\"row_2 col_1\">155/80A</td><td class=\"row_2 col_2\">5</td><td class=\"row_2 col_3\">2</td><td class=\"row_2 col_4\">6</td><td class=\"row_2 col_5\">32</td><td class=\"row_2 col_6\">38</td><td class=\"row_2 col_7\">40</td><td class=\"row_2 col_8\">32/PPP</td> </tr>\n <tr class=\"odd\"><td class=\"row_3 col_0\">36</td><td class=\"row_3 col_1\">160/84A</td><td class=\"row_3 col_2\">7</td><td class=\"row_3 col_3\">4</td><td class=\"row_3 col_4\">8</td><td class=\"row_3 col_5\">34</td><td class=\"row_3 col_6\">40</td><td class=\"row_3 col_7\">42</td><td class=\"row_3 col_8\">34/PP</td> </tr>\n <tr class=\"even\"><td class=\"row_4 col_0\">38</td><td class=\"row_4 col_1\">160/84A</td><td class=\"row_4 col_2\">9</td><td class=\"row_4 col_3\">6</td><td class=\"row_4 col_4\">10</td><td class=\"row_4 col_5\">36</td><td class=\"row_4 col_6\">42</td><td class=\"row_4 col_7\">44</td><td class=\"row_4 col_8\">36/P</td> </tr>\n <tr class=\"odd\"><td class=\"row_5 col_0\">40</td><td class=\"row_5 col_1\">165/88A</td><td class=\"row_5 col_2\">11</td><td class=\"row_5 col_3\">8</td><td class=\"row_5 col_4\">12</td><td class=\"row_5 col_5\">38</td><td class=\"row_5 col_6\">44</td><td class=\"row_5 col_7\">46</td><td class=\"row_5 col_8\">38/M</td> </tr>\n <tr class=\"even\"><td class=\"row_6 col_0\">42</td><td class=\"row_6 col_1\">170/92A</td><td class=\"row_6 col_2\">13</td><td class=\"row_6 col_3\">10</td><td class=\"row_6 col_4\">14</td><td class=\"row_6 col_5\">40</td><td class=\"row_6 col_6\">46</td><td class=\"row_6 col_7\">48</td><td class=\"row_6 col_8\">40/G</td> </tr>\n <tr class=\"odd\"><td class=\"row_7 col_0\">44</td><td class=\"row_7 col_1\">175/96A</td><td class=\"row_7 col_2\">15</td><td class=\"row_7 col_3\">12</td><td class=\"row_7 col_4\">16</td><td class=\"row_7 col_5\">42</td><td class=\"row_7 col_6\">48</td><td class=\"row_7 col_7\">50</td><td class=\"row_7 col_8\">42/GG</td> </tr>\n <tr class=\"even\"><td class=\"row_8 col_0\">46</td><td class=\"row_8 col_1\">180/100A</td><td class=\"row_8 col_2\">17</td><td class=\"row_8 col_3\">14</td><td class=\"row_8 col_4\">18</td><td class=\"row_8 col_5\">44</td><td class=\"row_8 col_6\">50</td><td class=\"row_8 col_7\">52</td><td class=\"row_8 col_8\">44/XG</td> </tr>\n</tbody>\n</table>\n</div></div></div></div>"
+        },
+        "need_help": {
+            "title": "Contact Us",
+            "sub_title": "Contact Us",
+            "body": "<div class=\"field field-name-body field-type-text-with-summary field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\"><div>Have a question? You may find an answer in our <a href=\"/ca/en/faq/\" target=\"_blank\">FAQs</a>.</div>\n\n<div>But you can also contact us:</div>\n</div></div></div>",
+            "contact_infos": [
+                {
+                    "phone": "1-855-770-8626",
+                    "calling_hours": [
+                        {
+                            "closing_hours": "6pm",
+                            "days": "Monday to Saturday",
+                            "opening_hours": "9am",
+                            "timezone": "EST"
+                        }
+                    ]
+                }
+            ],
+            "contact_title": "Customer Service"
+        }
+    },
+    "stock": {
+        "ecom": true,
+        "retail": false,
+        "shared": false,
+        "displayOnly": false
+    },
+    "categories": [
+        "PRE_COLLECTION_FW",
+        "WOMEN_RTW_TOPS_SHIRTS"
+    ],
+    "secondId": "p_h3h4601da_tl",
+    "personalize": false,
+    "displayMode": "",
+    "hasAgecLink": false
+}

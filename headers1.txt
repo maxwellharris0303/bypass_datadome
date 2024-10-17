@@ -1,0 +1,66 @@
+{
+	"Request Headers": {
+		"headers": [
+			{
+				"name": "Accept",
+				"value": "application/json, text/plain, */*"
+			},
+			{
+				"name": "Accept-Encoding",
+				"value": "gzip, deflate, br"
+			},
+			{
+				"name": "Accept-Language",
+				"value": "en-US,en;q=0.5"
+			},
+			{
+				"name": "Connection",
+				"value": "keep-alive"
+			},
+			{
+				"name": "Cookie",
+				"value": "datadome=L1FvKVwpltPCPKnXib6SRWAS0g2~7zkElhMelavSXK9R5Py2W~K~g0hg_Egr521LjWFIjyj8pmPXWNfQKEhHPmjzMY7QUNkbdtGl1nuHZx63_S_EzP0qdRUGB5NECG8Q; lastRskxRun=1708266901866; rskxRunCookie=0; rCookie=v7m0qy464okcagfztrzjvtlsooy2ca; _cs_mk=0.2209887803361057_1708263904533; _ga_Y862HCHCQ7=GS1.1.1708263904.1.1.1708266904.0.0.0; _ga=GA1.2.908034337.1708263905; _gid=GA1.2.1679346182.1708263905; ECOM_SESS=ffq1xxe2cpf27agenqsuynk7tp; correlation_id=0owxu51iih1wsho4ryhyoxtul0cxeitpmp0bqhuu2uuh87maxhf4r6p4u9saxx53; x-xsrf-token=a883c959-0076-47c2-8a1b-4393bc4c73be"
+			},
+			{
+				"name": "Host",
+				"value": "bck.hermes.com"
+			},
+			{
+				"name": "Origin",
+				"value": "https://www.hermes.com"
+			},
+			{
+				"name": "Referer",
+				"value": "https://www.hermes.com/"
+			},
+			{
+				"name": "Sec-Fetch-Dest",
+				"value": "empty"
+			},
+			{
+				"name": "Sec-Fetch-Mode",
+				"value": "cors"
+			},
+			{
+				"name": "Sec-Fetch-Site",
+				"value": "same-site"
+			},
+			{
+				"name": "TE",
+				"value": "trailers"
+			},
+			{
+				"name": "User-Agent",
+				"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0"
+			},
+			{
+				"name": "x-hermes-locale",
+				"value": "fi_en"
+			},
+			{
+				"name": "x-xsrf-token",
+				"value": "a883c959-0076-47c2-8a1b-4393bc4c73be"
+			}
+		]
+	}
+}
