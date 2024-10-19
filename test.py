@@ -64,23 +64,25 @@ async def on_request(params, global_conn):
 
 async def main():
     async with webdriver.Chrome(max_ws_size=2 ** 30) as driver:
-        driver.base_target.socket.on_closed.append(lambda code, reason: print(f"chrome exited"))
+        driver.base_target.socket.on_closed.append(
+            lambda code, reason: print("chrome exited")
+        )
 
         global_conn = driver.base_target
         await global_conn.execute_cdp_cmd("Fetch.enable",
                                           cmd_args={"patterns": [{"requestStage": "Response", "urlPattern": "*"}]})
         await global_conn.add_cdp_listener("Fetch.requestPaused", lambda data: on_request(data, global_conn))
 
-        await driver.get("https://www.worten.pt")
+        await driver.get("https://accounts.o2.co.uk/signin")
         await asyncio.sleep(3000)
         cookie_button = await driver.find_element(By.CSS_SELECTOR, "button[id=\"onetrust-accept-btn-handler\"]")
         await cookie_button.click()
         await asyncio.sleep(2)
-        
+
         login_button = await driver.find_element(By.CSS_SELECTOR, "span[class=\"mc-header-log-in__text\"]")
         await login_button.click()
 
-        await asyncio.sleep(3) 
+        await asyncio.sleep(3)
         iframes = await driver.find_element(By.CSS_SELECTOR, "iframe[title=\"Widget containing a Cloudflare security challenge\"]")
         iframe_document = await iframes.content_document
 
